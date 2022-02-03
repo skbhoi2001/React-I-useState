@@ -1,0 +1,15 @@
+.todoLayer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 50%;
+  margin: auto;
+}
+.todoLayer > p {
+  width: 80%;
+  margin: 10%;
+}
+.todoLayer > button {
+  width: 80%;
+  margin: 10%;
+}
